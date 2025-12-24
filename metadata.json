@@ -1,0 +1,8 @@
+{
+  "name": "多AGENT协同开发平台",
+  "description": "一个纯前端、本地优先的多智能体协作平台，支持可视化工作流配置、Agent管理及任务历史持久化。",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
